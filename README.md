@@ -12,6 +12,7 @@
         <a href="https://gitlab.com/nuria_liano" target="_blank"><img height="50" src="./img/icons/gitlab.svg" /></a>
         <a href="https://github.com/nurialiano" target="_blank"><img height="50" src="./img/icons/github.svg" /></a>
         <a href="https://twitter.com/nuria_liano" target="_blank"><img height="50" src="./img/icons/twitter.svg"  /></a>
+        <a href="https://discord.gg/jSytrMk8" target="_blank"><img height="50" src="./img/icons/discord.svg"/></a>
         <a href="https://www.buymeacoffee.com/nurialiano" target="_blank"><img height="50" src="./img/icons/by-me-a-coffee.png" /></a>
     </p>
 </div>
